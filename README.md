@@ -8,9 +8,9 @@ This application is built using the Spring Framework and the Java Enterprise Edi
 
 
 ## Check the problem for more informations : 
-[Linl to Problem](https://github.com/Daeels/Spring_JEE/blob/main/Projet%20de%20fin%20de%20module%20JEE%20et%20Spring%20boot.pdf)
+[Link to Problem](https://github.com/Daeels/Spring_JEE/blob/main/Projet%20de%20fin%20de%20module%20JEE%20et%20Spring%20boot.pdf)
 
-## Tutorial
+## Video Tutorial
 For a detailed explanation of how to use the app, please watch this [video tutorial](https://drive.google.com/file/d/1urdah7deWgkmc1NFZRKRi8rEROW662Zw/view?usp=sharing).
 
 ## Contact 📧
